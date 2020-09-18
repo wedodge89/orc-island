@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T17:18:19.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="qeG9KrWl4c5RkOxJ3zTK" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T01:54:51.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="dxDsQS1JxPC6LiXiT59M" version="13.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1933" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;4G: Drowned&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Between you dense, muscular body and your seemingly empty skull, you are doomed. As you drift to the bottom of the sea, you think maybe you have taken swimming lessons at the YOCA all those years ago.&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Press R to restart.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="465" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-13" value="&lt;b&gt;2W: Jungle&lt;br&gt;&lt;/b&gt;As you walk further inland, a smattering of palm trees gives way to a dense forest of various fruit trees. To your right, or should I say &quot;To your East,&quot; you see a burning campfire. To your left, or your &quot;West,&quot; as the cool kids say, you see a seagull.&amp;nbsp;&lt;br&gt;&lt;br&gt;Press F to approach the fire.&lt;br&gt;Press B to approach the bird." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
