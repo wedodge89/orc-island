@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T21:18:45.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="vAkf5kvOxOmKJF2EZlFN" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T21:32:16.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="BXMs3PNfZPW94-rK3g41" version="13.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6356" dy="3657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6781" dy="3938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,9 +39,12 @@
           <mxGeometry x="-40" y="320" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;4G: Drowned&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Between you dense, muscular body and your seemingly empty skull, you are doomed. As you drift to the bottom of the sea, you think maybe you should have taken swimming lessons at the YOCA all those years ago.&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Press R to restart.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="520" width="200" height="120" as="geometry" />
+          <mxGeometry x="80" y="480" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-13" target="ExkLoxUedhTQ5dxnAlKB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-13" target="ExkLoxUedhTQ5dxnAlKB-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-13" value="&lt;b&gt;2W: Jungle&lt;br&gt;&lt;/b&gt;As you walk further inland, a smattering of palm trees gives way to a dense forest of various fruit trees. To your right, or should I say &quot;To your East,&quot; you see a burning campfire. To your left, or your &quot;West,&quot; as the cool kids say, you see a seagull.&amp;nbsp;&lt;br&gt;&lt;br&gt;Press F to approach the fire.&lt;br&gt;Press B to approach the bird." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -50,7 +53,10 @@
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-17" target="ExkLoxUedhTQ5dxnAlKB-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ExkLoxUedhTQ5dxnAlKB-17" value="&lt;b&gt;3F: Fire&lt;/b&gt;&lt;br&gt;As you near the campfire, you begin to smell burning meat. The smell is so tantalizing that it makes your mouth water, your stomach grumble, and your foot burn. Wait, why is your foot burning?&lt;br&gt;&lt;br&gt;Press L to look down at your foot.&lt;br&gt;Press I to ignore it and sit by the fire.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-17" target="ExkLoxUedhTQ5dxnAlKB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-17" value="&lt;b&gt;3F: Fire&lt;/b&gt;&lt;br&gt;As you near the campfire, you begin to smell burning meat. The smell is so tantalizing that it makes your mouth water, your stomach grumble, and your foot hurt. Wait, why does your foot hurt?&lt;br&gt;&lt;br&gt;Press L to look down at your foot.&lt;br&gt;Press I to ignore it and sit by the fire." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="160" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-19" target="ExkLoxUedhTQ5dxnAlKB-21">
@@ -63,16 +69,52 @@
           <mxGeometry x="440" y="320" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-21" value="&lt;b&gt;5R: Forest Fire&lt;/b&gt;&lt;br&gt;You run from the fire as fast as you can. Given you&#39;re down to about one and a half working feet, that is not fast. Unfortunately, you kick up embers in your terror, and the forest catches fire around you.&amp;nbsp;&lt;br&gt;Trapped by burning trees, knowing death is imminent, you give into temptation and take a huge bite of your own arm. Not only is it burnt and tasteless, but it&#39;s still hot enough to burn your tongue. Today just keeps getting worse.&lt;br&gt;&lt;br&gt;Press R to restart." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="520" width="200" height="180" as="geometry" />
+          <mxGeometry x="440" y="480" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-23" target="ExkLoxUedhTQ5dxnAlKB-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ExkLoxUedhTQ5dxnAlKB-23" value="&lt;b&gt;5I: Ignore&lt;/b&gt;&lt;br&gt;You decide to sit down by the fire and wait. These things tend to work themselves out. Moments later, a bucketful of water comes from nowhere, dowsing the campfire and the foot fire. You turn to see a panicked human holding an empty, dripping bucket.&lt;br&gt;&lt;br&gt;Press A to attack the puny creature.&lt;br&gt;Press T to attempt civil discourse." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="320" width="200" height="120" as="geometry" />
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-23" value="&lt;b&gt;4/5I: Ignore&lt;/b&gt;&lt;br&gt;You decide to sit down by the fire and wait. These things tend to work themselves out. Moments later, a bucketful of water comes from nowhere, dowsing the campfire and the foot fire. You turn to see a panicked human holding an empty, dripping bucket.&lt;br&gt;&lt;br&gt;Press A to attack the puny creature.&lt;br&gt;Press T to attempt civil discourse." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ExkLoxUedhTQ5dxnAlKB-25" value="&lt;b&gt;6A: Attack&lt;/b&gt;&lt;br&gt;You bare your teeth and lung for the pathetic human. Before you get to him, he shoots you with a laser gun. You probably assumed there would be no lasers in this game, but you were wrong.&lt;br&gt;Dead wrong.&lt;br&gt;&lt;br&gt;Press R to restart." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="520" width="200" height="120" as="geometry" />
+          <mxGeometry x="680" y="480" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-28" target="ExkLoxUedhTQ5dxnAlKB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-28" target="ExkLoxUedhTQ5dxnAlKB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-28" value="&lt;b&gt;3B: Bird&lt;/b&gt;&lt;br&gt;Before you is a seagull. A bit on the scrawny side, but you&#39;ll take what you can get. You clench your fists and prepare to lunge at the foolish creature. It stares blankly at you like a stupid bird.&lt;br&gt;&lt;br&gt;Press D to dive at the bird.&lt;br&gt;Press P to pounce at the bird." style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-30" target="ExkLoxUedhTQ5dxnAlKB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-30" value="&lt;b&gt;4D/P: Dive/Pounce&lt;/b&gt;&lt;br&gt;You dive and/or pounce (is there really a difference) at the bird. It emits a harsh shriek and attempts to take off, but you barely manage to wrap your meaty fist around one of its feet. Despite its protests, you have won.&amp;nbsp;&lt;br&gt;&lt;br&gt;Press R to eat the bird raw.&lt;br&gt;Press F to build a fire to cook it.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-32" target="ExkLoxUedhTQ5dxnAlKB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-33" target="ExkLoxUedhTQ5dxnAlKB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1400" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ExkLoxUedhTQ5dxnAlKB-34" target="ExkLoxUedhTQ5dxnAlKB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExkLoxUedhTQ5dxnAlKB-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
