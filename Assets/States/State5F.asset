@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192cf7e8dfd0e4799ad70f78f9252043, type: 3}
+  m_Name: State5F
+  m_EditorClassIdentifier: 
+  storyText: "The only way you know to build a fire is with a lit torch. You set
+    the bird down and search for a torch. You have no luck. And when you return to
+    the spot where you left the bird, it is gone. Now what? \n\nPress 1 to go hunting."
+  nextStates:
+  - {fileID: 11400000, guid: e6409e6cea696453b98d45eebb1e6413, type: 2}

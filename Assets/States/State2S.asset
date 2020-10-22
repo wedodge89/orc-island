@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192cf7e8dfd0e4799ad70f78f9252043, type: 3}
+  m_Name: State2S
+  m_EditorClassIdentifier: 
+  storyText: 'You don''t know how to swim. Unfortunately, you seem to have forgotten
+    this. There is now nothing you can do but flail.
+
+
+    Press 1 to flail.
+
+    Press
+    2 to give up. '
+  nextStates:
+  - {fileID: 11400000, guid: eeb7176b9dbf240d99fe14613687cfaf, type: 2}
+  - {fileID: 11400000, guid: 7dd77f3096a7545adbcc53cdb69e2e16, type: 2}

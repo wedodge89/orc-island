@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192cf7e8dfd0e4799ad70f78f9252043, type: 3}
+  m_Name: State2W
+  m_EditorClassIdentifier: 
+  storyText: "As you walk  inland, a smattering of palm trees gives way to a dense
+    forest of various fruit trees. To your right, you see a burning campfire. To
+    your left, you see a seagull. \n\nPress 1 to approach the fire.\nPress 2 to approach
+    the bird."
+  nextStates:
+  - {fileID: 11400000, guid: b52c09cd2994541ef90f7cbc6fb3960b, type: 2}
+  - {fileID: 11400000, guid: d0f0191fcc2d246b68705bf33c4145bc, type: 2}

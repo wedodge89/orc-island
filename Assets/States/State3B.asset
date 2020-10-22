@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192cf7e8dfd0e4799ad70f78f9252043, type: 3}
+  m_Name: State3B
+  m_EditorClassIdentifier: 
+  storyText: 'Before you is a seagull. A bit on the scrawny side, but you''ll take
+    what you can get. You clench your fists. It stares blankly at you like a stupid
+    bird.
+
+
+    Press 1 to dive at the bird.
+
+    Press 2 to pounce at the bird.'
+  nextStates:
+  - {fileID: 11400000, guid: 589ade05bf1cd4284ad251bcc06f7120, type: 2}
+  - {fileID: 11400000, guid: 0b6fde2e9ff3247e89397a28424a7103, type: 2}

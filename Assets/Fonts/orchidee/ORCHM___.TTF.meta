@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f967eea6753946b6809122e83c0c728
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orchidee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0fb32a0a929e4d299854b46672995af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
